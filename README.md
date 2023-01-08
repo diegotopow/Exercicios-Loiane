@@ -1,3 +1,8 @@
+## Resolução da Lista de exercícios
+Conforme estudo diariamente para aperfeiçoamento da linguagem Java na Lógica de Programação, deixarei esse Repositório Público para ajudar quem está iniciando na área de programação para consulta e melhoria de código.
+Meu maior intuito é preparar-me para entrevistas técnicas e também melhorar minha lógica, como também a disciplina de `Programação Orientada a Objetos` e, posteriormente, aplicar isto no Framework `Spring Boot`do Java.
+Se você chegou até aqui, parabéns e continue estudando para futuramente se tornar um orgulho para si próprio.
+
 ## Getting Started
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
